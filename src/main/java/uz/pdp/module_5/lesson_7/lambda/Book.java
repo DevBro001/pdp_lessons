@@ -5,6 +5,7 @@ import lombok.*;
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 @Builder
 @ToString(includeFieldNames = false)
 public class Book {
@@ -14,5 +15,10 @@ public class Book {
     private double price;
     private int countPage;
 
+    public Book(int countPage) {
+        this.countPage = countPage;
+    }
 
+    public Book(String s) {
+    }
 }

@@ -53,23 +53,16 @@ public class Main {
 
         Supplier<Integer> random = ()-> new Random().nextInt(10,100);
 
-
         System.out.println(random.get());
         System.out.println(random.get());
         System.out.println(random.get());
         System.out.println(random.get());
         System.out.println(random.get());
-
-
 
         /*
         Integer apply = strToInt.apply("123");
         System.out.println(apply);
 */
-
-
-
-
 
 
 
