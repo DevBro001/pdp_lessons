@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "Dae Figueroa",
-			"age": 37
+			"age": 11
 		},
 		{
 			"name": "Elliott Webster",
@@ -114,7 +114,7 @@
 		},
 		{
 			"name": "Dae Figueroa",
-			"age": 50
+			"age": 21
 		},
 		{
 			"name": "Shiloh Tran",
